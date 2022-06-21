@@ -324,7 +324,6 @@ namespace MINTTest
             }
 
             CurrentTabIndex = TabIndex;
-            //var grid = ((ScrollView)((Grid)sender).Parent.Parent).ScrollToAsync(100, 0, true);
         }
 
         void SearchBar_TextChanged(System.Object sender, Xamarin.Forms.TextChangedEventArgs e)
